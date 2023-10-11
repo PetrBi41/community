@@ -6,3 +6,4 @@
 0904. ✨ feat: implement quiz timer feature
 0353. ♻️ chore: rename env.example
 0195. 📚 docs: clarify environment setup
+0808. 🚀 perf: optimize database query for quiz results
