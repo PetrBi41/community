@@ -15,3 +15,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0197. 📚 docs: update README with setup steps
 0551. 📚 docs: write FAQ section
+0724. ✅ test: mock database connection in test suite
