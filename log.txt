@@ -24,3 +24,4 @@
 0660. 🐛 fix: correct typo in registration form
 0392. 🎨 style: remove trailing whitespace
 0430. 🐛 fix: fix null pointer exception on login
+0839. 🎨 style: apply consistent indentation
