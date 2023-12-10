@@ -25,3 +25,4 @@
 0392. 🎨 style: remove trailing whitespace
 0430. 🐛 fix: fix null pointer exception on login
 0839. 🎨 style: apply consistent indentation
+0638. 📚 docs: improve code comments in utils
