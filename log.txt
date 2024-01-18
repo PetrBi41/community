@@ -32,3 +32,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0356. 📚 docs: write FAQ section
 0860. 🔧 refactor: organize models into subfolders
+0432. 🎨 style: apply consistent indentation
