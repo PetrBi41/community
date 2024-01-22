@@ -33,3 +33,4 @@
 0356. 📚 docs: write FAQ section
 0860. 🔧 refactor: organize models into subfolders
 0432. 🎨 style: apply consistent indentation
+0352. ✨ feat: add export to CSV option
