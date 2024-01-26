@@ -35,3 +35,4 @@
 0432. 🎨 style: apply consistent indentation
 0352. ✨ feat: add export to CSV option
 0629. 🔧 refactor: organize models into subfolders
+0599. ✅ test: test user registration edge cases
