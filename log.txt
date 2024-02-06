@@ -37,3 +37,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0599. ✅ test: test user registration edge cases
 0953. 🎨 style: remove trailing whitespace
+0044. ✅ test: add unit test for quiz service
