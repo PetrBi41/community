@@ -46,3 +46,4 @@
 0516. ✅ test: add unit test for quiz service
 0164. 📚 docs: document token refresh logic
 0620. ✨ feat: implement quiz timer feature
+0685. ✅ test: test user registration edge cases
