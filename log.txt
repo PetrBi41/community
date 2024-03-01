@@ -47,3 +47,4 @@
 0164. 📚 docs: document token refresh logic
 0620. ✨ feat: implement quiz timer feature
 0685. ✅ test: test user registration edge cases
+0154. 🐛 fix: prevent crash on empty input
