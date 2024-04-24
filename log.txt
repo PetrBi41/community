@@ -62,3 +62,4 @@
 0640. ♻️ chore: bump dependencies
 0127. 🐛 fix: fix null pointer exception on login
 0324. 📚 docs: document token refresh logic
+0586. 🎨 style: remove trailing whitespace
