@@ -65,3 +65,4 @@
 0586. 🎨 style: remove trailing whitespace
 0934. ✨ feat: support email verification
 0178. ✨ feat: support email verification
+0305. ✨ feat: enable dark mode toggle
