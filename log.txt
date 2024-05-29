@@ -71,3 +71,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0898. 🐛 fix: fix broken CSS in mobile view
 0546. 🐛 fix: fix null pointer exception on login
+0144. ✅ test: increase coverage on auth module
