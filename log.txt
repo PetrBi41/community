@@ -73,3 +73,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0144. ✅ test: increase coverage on auth module
 0350. 🚀 perf: cache repeated calculations
+0683. ✅ test: mock database connection in test suite
