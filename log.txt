@@ -79,3 +79,4 @@
 0017. ✅ test: mock database connection in test suite
 0235. 🐛 fix: fix null pointer exception on login
 0833. ✨ feat: add user authentication
+0456. 🚀 perf: optimize database query for quiz results
