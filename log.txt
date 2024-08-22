@@ -90,3 +90,4 @@
 0837. 🚀 perf: cache repeated calculations
 0647. 🐛 fix: prevent crash on empty input
 0937. 🐛 fix: handle 500 error in quiz API
+1000. ✅ test: increase coverage on auth module
