@@ -91,3 +91,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0937. 🐛 fix: handle 500 error in quiz API
 1000. ✅ test: increase coverage on auth module
+0840. 🔧 refactor: refactor quiz grading logic
