@@ -92,3 +92,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 1000. ✅ test: increase coverage on auth module
 0840. 🔧 refactor: refactor quiz grading logic
+0533. ♻️ chore: add GitHub actions badge
