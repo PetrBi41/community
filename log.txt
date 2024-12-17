@@ -118,3 +118,4 @@
 0048. 📚 docs: update README with setup steps
 0153. ♻️ chore: rename env.example
 0312. ✨ feat: add user authentication
+0594. 🎨 style: reformat files with black
