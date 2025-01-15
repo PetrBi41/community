@@ -124,3 +124,4 @@
 0682. ♻️ chore: rename env.example
 0583. ✅ test: increase coverage on auth module
 0226. 🚀 perf: lazy-load components
+0977. 🔧 refactor: organize models into subfolders
