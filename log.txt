@@ -126,3 +126,4 @@
 0226. 🚀 perf: lazy-load components
 0977. 🔧 refactor: organize models into subfolders
 0597. 🚀 perf: cache repeated calculations
+0348. ✅ test: test user registration edge cases
