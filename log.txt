@@ -128,3 +128,4 @@
 0597. 🚀 perf: cache repeated calculations
 0348. ✅ test: test user registration edge cases
 0286. ✅ test: mock database connection in test suite
+0855. 🎨 style: reformat files with black
