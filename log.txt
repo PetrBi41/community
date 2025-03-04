@@ -133,3 +133,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0490. ✨ feat: create admin dashboard
 0948. 🐛 fix: fix broken CSS in mobile view
+0820. 📚 docs: add API usage examples
