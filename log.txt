@@ -135,3 +135,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0820. 📚 docs: add API usage examples
 0151. ✅ test: add unit test for quiz service
+0869. ♻️ chore: bump dependencies
