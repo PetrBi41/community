@@ -149,3 +149,4 @@
 0649. 📚 docs: update README with setup steps
 0993. ✨ feat: implement quiz timer feature
 0805. ♻️ chore: add GitHub actions badge
+0357. ✅ test: add unit test for quiz service
