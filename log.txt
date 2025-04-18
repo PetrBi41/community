@@ -150,3 +150,4 @@
 0993. ✨ feat: implement quiz timer feature
 0805. ♻️ chore: add GitHub actions badge
 0357. ✅ test: add unit test for quiz service
+0845. 🚀 perf: cache repeated calculations
