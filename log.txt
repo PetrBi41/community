@@ -160,3 +160,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0169. 📚 docs: add API usage examples
 0661. ✅ test: add integration test for /submit endpoint
+0063. 🐛 fix: handle 500 error in quiz API
