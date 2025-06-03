@@ -163,3 +163,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0994. 🚀 perf: reduce image load time
 0374. 🎨 style: standardize quote style
+0215. 🎨 style: reformat files with black
