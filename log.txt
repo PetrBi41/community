@@ -165,3 +165,4 @@
 0374. 🎨 style: standardize quote style
 0215. 🎨 style: reformat files with black
 0789. ✨ feat: create admin dashboard
+0065. ✅ test: add integration test for /submit endpoint
