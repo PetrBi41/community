@@ -188,3 +188,4 @@
 0335. ♻️ chore: update .gitignore
 0596. ♻️ chore: update .gitignore
 0563. 📚 docs: clarify environment setup
+0240. 🔧 refactor: remove redundant code blocks
