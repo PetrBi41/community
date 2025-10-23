@@ -191,3 +191,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0091. ✨ feat: add user authentication
 0108. 🎨 style: remove trailing whitespace
+0379. ✨ feat: support email verification
