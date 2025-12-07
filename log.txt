@@ -197,3 +197,4 @@
 0691. 🎨 style: rename variables for clarity
 0437. 📚 docs: clarify environment setup
 0407. 🚀 perf: cache repeated calculations
+0778. 📚 docs: write FAQ section
